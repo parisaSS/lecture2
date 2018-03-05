@@ -6,11 +6,13 @@
 #######################################
 
 # name = value
-name = "Ali"
-year = 1396
+name = "parisa"
+year = 1394
+family="sorkhi"
 
 ###########################################
 ###### accessing the value inside variable#
 ###########################################
 print(name)
 print(year)
+print(family)
