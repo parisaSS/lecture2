@@ -9,10 +9,10 @@ pi = 3.1415
 #########################################
 radius = 2.2
 ########################################################
-### define area and save the value of expression to it #
+### define perimeter and save the value of expression to it #
 ########################################################
-area = pi * (radius ** 2)
+perimeter = pi * radius * 2
 ############################################
-## print the calculated area of the circle #
+## print the calculated perimeter of the circle #
 ############################################
-print(area)
+print(perimeter )
