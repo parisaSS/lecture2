@@ -1,9 +1,9 @@
 ##########################
 ## compare two variables #
 ##########################
-i=5
-j=6
-print("i < j --> {0}".format(i<j))
+i=4
+j=8
+print("i < j --> {0} {1}".format(i<j,16))
 print("i > j --> {0}".format(i>j))
 print("i <= j --> {0}".format(i<=j))
 print("i >= j --> {0}".format(i>=j))
